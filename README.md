@@ -4,7 +4,7 @@ This repository contains basic user experience (UX) and user interface (UI) desi
 
 ## Screenshots
 
-[Include screenshots or links to your designs here]
+![screenshot](https://github.com/asaggse/pomodoro-timer-ux-ui-design/blob/main/Pomodoro%20Timer%20App.png?raw=true)
 
 ## Getting Started
 
